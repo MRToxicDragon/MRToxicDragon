@@ -8,3 +8,6 @@
 MRToxicDragon/MRToxicDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+<h2>Hey there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, I'm Sreeraj V R</h2>

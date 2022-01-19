@@ -56,4 +56,4 @@
 </p>
 <p align="center">
 <img width="50%" src="https://gpvc.arturio.dev/MRToxicDragon" alt="Profile views" />
-</p>
+</p> 
